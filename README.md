@@ -26,6 +26,7 @@
    <a href="https://www.notion.so/StylioCast-38bd2078e6a04449b3a8793febce7fa1">
      <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </a>
+</div>
 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=selly3109)
