@@ -21,10 +21,12 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
-
-
-
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+   <a href="https://www.notion.so/StylioCast-38bd2078e6a04449b3a8793febce7fa1">
+     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  </a>
 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=selly3109)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeHelee&layout=compact&theme=Demo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selly3109&layout=compact)
