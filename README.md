@@ -2,7 +2,7 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=selly3109)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeHelee&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeHeleeanuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HeHelee=nuraghazra&show_icons=true&theme=radical)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
