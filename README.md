@@ -3,7 +3,7 @@
   <!-- 헤더 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HeHelee's%20github&fontSize=90" />
 
-    <!-- GitHub Stats -->
+
   <a href="https://stats.hyo.dev/stats/HeHelee">
     <img src="https://stats.hyo.dev/api/github-stats-advanced?login=HeHelee" width="600" />
   </a>
