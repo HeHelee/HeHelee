@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HeHelee's%20github&fontSize=90" />
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=selly3109)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeHelee&layout=compact)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
