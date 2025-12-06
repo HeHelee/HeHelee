@@ -3,11 +3,6 @@
   <!-- 헤더 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HeHelee's%20github&fontSize=90" />
 
-
-  <a href="https://stats.hyo.dev/stats/HeHelee">
-    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=HeHelee" width="600" />
-  </a>
-
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp                    <!-- 자바 -->     
